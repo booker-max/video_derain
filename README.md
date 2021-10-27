@@ -8,5 +8,5 @@
 # CVPR 2020
 "Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence"  https://github.com/flyywh/CVPR-2020-Self-Rain-Removal
 
-#cvpr 2018
+# CVPR 2018
 FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors   https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors
