@@ -4,6 +4,9 @@
 
 "Semi-Supervised Video Deraining with Dynamical Rain Generator"     https://github.com/zsyOAOA/S2VD
 
+# TPAMI 2021
+“Recurrent Multi-Frame Deraining: CombiningPhysics Guidance and Adversarial Learning” https://github.com/flyywh/Recurrent-Multi-Frame-Deraining
+
 # TIP 2021
 “Online Rain/Snow Removal from Surveillance Videos” https://github.com/MinghanLi/OTMSCSC_matlab_2020
 
