@@ -16,6 +16,9 @@
 ## CVPR 2020
 "Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence"  https://github.com/flyywh/CVPR-2020-Self-Rain-Removal
 
+## CVPR 2019
+"Frameconsistent recurrent video deraining with dual-level flow." https://github.com/flyywh/Dual-FLow-Video-Deraining-CVPR-2019 代码未开源。
+
 ## ICME 2019 oral
 “Removing Rain in Videos: A Large-scale Database and A Two-stream ConvLSTM Approach” https://github.com/stayhungry1/Video-Rain-Removal  提出LasVR数据集.
 
