@@ -4,6 +4,8 @@
 "Self-Aligned Video Deraining with Transmission-Depth Consistency"  https://github.com/wending94/Self-Aligned-Video-Deraining-with-Transmission-Depth-Consistency
 
 "Semi-Supervised Video Deraining with Dynamical Rain Generator"     https://github.com/zsyOAOA/S2VD
+## ICASSP 2021
+"GTA-Net: Gradual Temporal Aggregation Network for Fast Video Deraining" https://github.com/vis-opt-group/GTANet
 
 ## TPAMI 2021
 “Recurrent Multi-Frame Deraining: CombiningPhysics Guidance and Adversarial Learning” https://github.com/flyywh/Recurrent-Multi-Frame-Deraining
